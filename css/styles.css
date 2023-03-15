@@ -1,15 +1,45 @@
 body {
   background-color: #f8e5de;
   font-family: 'Trebuchet MS', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
   text-align: center;
   color: #ad3c3c;
 }
 
-h1 {
+h1, h2, h3, h4 {
   font-family: cursive;
-  font-size: 72px;
   font-weight: 100;
 }
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+h4 {
+  font-size: 32px;
+}
+
+dt {
+  font-weight: bold;
+  background-color: #ad3c3c2f;
+  text-align: left;
+}
+
+.ingredients {
+  text-align: left;
+}  
+
+ol {
+  text-align: justify;
+}  
 
 .attribution {
   font-family: 'Courier New', Courier, monospace;
@@ -18,7 +48,9 @@ h1 {
 
 .choice {
   list-style-type: none;
-  font-size: 20px;
 }
 
-
+.back {
+  background-color: #ad3c3c;
+  color: #f8e5de;
+}

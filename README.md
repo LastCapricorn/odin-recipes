@@ -8,3 +8,5 @@ A 'recipe website' as part of The Odin Project Curriculum.
 - GIT: log, status, add, push from CLI, commit from code
   not sure about the comments...
 - need to learn MarkDown(?), is it part of the Curriculum?
+- It's three years since I last started with TOP and 
+  now I'm back, giving it a try again. (April '26)

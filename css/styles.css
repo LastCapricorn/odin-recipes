@@ -4,6 +4,12 @@ body {
   font-size: 20px;
   text-align: center;
   color: #ad3c3c;
+  width: 50%;
+  margin: 20px auto 40px;
+}
+
+img {
+  width: 100%;
 }
 
 h1, h2, h3, h4 {
@@ -31,6 +37,7 @@ dt {
   font-weight: bold;
   background-color: #ad3c3c2f;
   text-align: left;
+  padding-left: 4px;
 }
 
 .ingredients {
@@ -50,7 +57,12 @@ ol {
   list-style-type: none;
 }
 
-.back {
-  background-color: #ad3c3c;
+button {
+  background-color: #ad3c3c5f;
   color: #f8e5de;
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+  margin: 10px 0 0 auto;
+  padding: 5px;
 }
